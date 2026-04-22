@@ -1,8 +1,8 @@
-Game Title: Galactic Defender
+Game Title: Shooter
 
 Description:
 
-Galactic Defender is a fast-paced arcade shooter that puts you in control of a lone starship patrolling the outer reaches of the solar system. Your mission is simple but challenging: defend your ship from waves of incoming alien saucers.
+Shooter is a fast-paced arcade shooter that puts you in control of a lone starship patrolling the outer reaches of the solar system. Your mission is simple but challenging: defend your ship from waves of incoming alien saucers.
 
 You control a powerful spacecraft that stays fixed at the bottom of the screen. From the top and sides, hostile flying saucers descend toward you. Your goal is to aim and shoot them down before they collide with your ship.
 
